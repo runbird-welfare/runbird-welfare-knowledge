@@ -1,0 +1,4 @@
+.DS_Store
+
+# Chatwork生JSONはAPIから再取得できるためgit管理しない（9MB）
+ナレッジ/Chatwork履歴/raw/
